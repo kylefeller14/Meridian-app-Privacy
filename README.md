@@ -1,1 +1,1 @@
-# Meridian-app-Privacy
+# Vara-app-Privacy
